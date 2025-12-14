@@ -1,3 +1,5 @@
+**Date Analysed:** 14/Dec/25
+
 **Current Price:** ~$33.91  
 **Market Cap:** ~$1.21B  
 **P/E Ratio:** 3.05  
