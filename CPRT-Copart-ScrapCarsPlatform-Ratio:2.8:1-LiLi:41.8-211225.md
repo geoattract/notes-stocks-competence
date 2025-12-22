@@ -1,3 +1,143 @@
+# Forensic Analysis of Copart, Inc. (CPRT)
+
+This forensic analysis evaluates **Copart, Inc. (CPRT)** through the lens of the Li Lu (Himalaya Capital) methodology, prioritizing the search for reasons to **REJECT** the investment. Data is based on TTM (Trailing Twelve Months) ending October 31, 2025, and the 2025 Annual 10-K report.
+
+---
+
+## STEP 1: PRE-QUALIFICATION (THE "TOO HARD" PILE)
+
+| Criterion | Assessment | Result |
+| --- | --- | --- |
+| **Business Simplicity** | Copart acts as a global digital auction house for salvage vehicles (mostly from insurance companies). Revenue is earned via per-unit auction fees and ancillary services (towing/storage). | **YES** |
+| **Historical Profitability** | FCF has been positive for 5+ consecutive years ($1.26B in FY2025). | **YES** |
+| **Circle of Competence** | Physical yard network (10,000+ acres) and digital auction platform with clear unit economics. | **YES** |
+
+**VERDICT: PROCEED TO ANALYSIS**
+
+---
+
+## STEP 2: THE MOAT & VIABILITY
+
+### The "10% Test" (Pricing Power)
+
+* **FY2025 Gross Margin:** 45.3%
+* **5-Year Trend:** Stable/Expanding (from ~43% in 2020 to ~45% in 2025).
+* **Verdict:** **EXPANDING**. High evidence of pricing power despite rising yard operational costs.
+
+### Switching Cost Evidence
+
+The friction point is a **Network Effect + Operational Integration**. Insurance companies are deeply integrated into Copart's logistics (CAS system), and the global buyer pool (200+ countries) ensures the highest salvage value, making it "psychologically and financially prohibitive" for a seller to leave the largest liquidity pool.
+
+### Disruption Risk
+
+**#1 Threat:** **Advanced Driver Assistance Systems (ADAS) & Autonomous Vehicles.**  
+If accidents decrease by >50% in the next decade, the volume engine dies. However, current data shows that higher complexity in cars leads to higher "Total Loss" rates (repairs are too expensive), which offsets the lower frequency of accidents.
+
+* **Verdict:** **PASS** (Threat is long-term, not imminent <10 years).
+
+---
+
+## STEP 3: FINANCIAL FORTRESS
+
+### Solvency (Debt/Equity)
+
+* **Current Debt:** $103.7M (Leases/Notes) / **Equity:** $9,187M  
+* **Ratio:** $103.7 / 9,187 = **0.01**  
+* **5-Year Average:** < 0.10. (Target: < 0.5). **PASS**.
+
+### Cash Conversion
+
+* **TTM FCF:** $1,260M / **TTM Net Income:** $1,552M  
+* **Ratio:** $1,260 / 1,552 = **81.2%**. (Target: > 80%). **PASS**.
+
+### The "Zero-Revenue" Survival
+
+* **Liquidity (Cash + Securities):** $5,233M + $9.8M = **$5,242.8M**  
+* **Annual OpEx:** $2,950M  
+* **Math:** $5,242.8 / (2,950 / 12) = **21.3 months**  
+*Copart can survive nearly 2 years without a single dollar of revenue.*
+
+---
+
+## STEP 4: MANAGEMENT & INTEGRITY
+
+* **Capital Allocation:** Management prioritizes **(C) M&A/Organic Expansion** (purchasing land). They have remarkably **not** repurchased shares in the last 3 years, choosing to stockpile $5.2B in cash.  
+* **Share Count Trend:** Diluted shares outstanding moved from 974M (2023) to 977M (2025). CAGR is ~0.15%. **PASS**.  
+* **Compensation Alignment:** **INSUFFICIENT DATA**. Proxy filings tie bonuses to "Operating Income" (EBIT) and corporate goals, but do not explicitly mandate an ROIC hurdle for the cash bonus. **FAIL** (on strictness).
+
+---
+
+## STEP 5: DUAL-VALUATION ENGINE
+
+A **Quality Multiple (M)** of 20x is assigned due to the irreplaceable land moat and dominant market share.
+
+### **A. The Li Lu Ratio (ROTIC)**
+
+$$
+ROTIC = \frac{EBIT}{\text{Total Assets} - \text{Cash} - \text{Goodwill} - \text{NIBCL}}
+$$
+
+* **Denominator:** $10,581M - 5,243M - 519M - 763M = \mathbf{\$4,056M}$  
+* **Result:** $1,721M / 4,056M = \mathbf{42.4\%}$ (Target: $>15\%$). PASS.
+
+### **B. Calculation 1: Strict Valuation (3-Year Conservative)**
+
+* **Strict EBIT (Avg 2023-2025):**  
+  $(1,487 + 1,572 + 1,697) / 3 = \mathbf{\$1,585M}$  
+* **Intrinsic Value:**  
+  $(1,585 \times 20) + (5,243 - 104) = \mathbf{\$36,839M}$  
+* **Strict Valuation Gap:**  
+  $1 - \left(\frac{37,820}{36,839}\right) = \mathbf{-2.6\%}$
+
+### **C. Calculation 2: Normalized Valuation (Current Power)**
+
+* **Normalized EBIT (TTM):** **$1,721M**  
+* **Intrinsic Value:**  
+  $(1,721 \times 20) + 5,139 = \mathbf{\$39,559M}$  
+* **Normalized Valuation Gap:**  
+  $1 - \left(\frac{37,820}{39,559}\right) = \mathbf{4.4\%}$
+
+---
+
+## STEP 6: THE RED FLAG GAUNTLET
+
+* **Declining ROIC:** No. ROTIC remains top-tier.  
+* **Acquisition Spree:** No. Most acquisitions are small land/yard additions.  
+* **Capital Intensity:**  
+  $500M \text{ (Capex)} / 1,800M \text{ (OCF)} = 27\%$  
+  **PASS**.  
+* **Insider Activity:** Net selling by CEO Jeff Liaw noted in late 2025. **INSUFFICIENT DATA** on total % of holdings sold.
+
+---
+
+## FINAL REPORT OUTPUT
+
+| **Ticker** | **Verdict** |
+| --- | --- |
+| **CPRT** | **HOLD** |
+
+### **Summary Table:**
+
+| Metric | Value |
+| --- | --- |
+| **Strict Valuation Gap** | **-2.6%** (Overvalued) |
+| **Normalized Valuation Gap** | **4.4%** (Fair Value) |
+
+---
+
+## **The "Anti-Thesis":**
+
+A smart person would sell because Copart is currently a "land-heavy bank" with $5.2B in idle cash yielding low returns compared to its core business, while trading at a premium multiple that leaves zero margin of safety for the eventual adoption of crash-prevention technology.
+
+---
+
+## **The "Fat Pitch" Condition:**
+
+To achieve a **30% Strict Valuation Gap**, the market cap must fall to **$25.79B**, representing a stock price of approximately **$26.65**.
+
+
+====
+
 # Strict Li Lu Analysis Framework: Copart, Inc. [CPRT]
 
 **OBJECTIVE:** Provide a definitive YES/NO/AVOID verdict based on the Li Lu value investing framework.
