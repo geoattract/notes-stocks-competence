@@ -119,8 +119,8 @@ $$
 
 | Metric | Value |
 | --- | --- |
-| **Strict Valuation Gap** | **49.1%** |
-| **Normalized Valuation Gap** | **57.3%** |
+| **Strict Valuation Gap** | **34.6%** |
+| **Normalized Valuation Gap** | **43.8%** |
 | **Current Market Cap** | **$1.128B** |
 
 ---
